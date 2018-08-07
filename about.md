@@ -5,9 +5,8 @@ permalink: /about/
 ---
 ## Hello, World!
 
-My name is Ivana Karcelova, and this is my *about**(../About)** page.*
-
-For a more detailed page, check out my **Resume**[Resume](../resume)** !*
+My name is Ivana Karcelova, and this is my **[about]**(../About)** page.*
+For a more detailed page, check out my **[resume]**(../resume)** !*
 
 ## For Work
 
