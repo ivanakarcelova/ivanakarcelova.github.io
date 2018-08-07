@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
+title: Resume
+permalink: /resume/
 ---

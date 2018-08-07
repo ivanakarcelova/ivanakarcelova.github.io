@@ -3,17 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
-### Hello World!
+## Hello, World!
 
-### My name is Ivana Karcelova, and this is my *About Page*
+My name is Ivana Karcelova, and this is my *about**(../About)** page.*
 
-### Check out my [***Resume***]***Resume*** to find a more detailed description of what I do
+For a more detailed page, check out my **Resume**[Resume](../resume)** !*
 
-#For School
+## For Work
 
-### I am currently a Junior at **Rutgers Preparatory School** in Central Jersey
-### Currently, I am taking AP Computer Science!
+### Full-Time
 
-### For Programs
-
-##
+**Squarespace**  
+I currently work on the Internal Tools team at Squarespace ([https://squarespace.com](http://squarespace.com))
