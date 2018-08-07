@@ -6,11 +6,25 @@ permalink: /about/
 ## Hello, World!
 
 My name is Ivana Karcelova, and this is my **[about]**(../About)** page.*
+
 For a more detailed page, check out my **[resume]**(../resume)** !*
 
-## For Work
+## School
+Currently, I am a Junior at Rutgers Preparatory School.
 
-### Full-Time
+This year, I am taking AP Computer Science!
 
-**Squarespace**  
-I currently work on the Internal Tools team at Squarespace ([https://squarespace.com](http://squarespace.com))
+### Clubs
+I am a leader of my school's *Gender Equality Movement Club*, take part in the *Computing Club*, and
+
+am a delegate in the *North American Invitational Model United Nations*
+
+## Programs
+
+
+This year, I am taking AP Computer Science!
+
+### Clubs
+I am a leader of my school's *Gender Equality Movement Club*, take part in the *Computing Club*, and
+
+am a delegate in the *North American Invitational Model United Nations*
