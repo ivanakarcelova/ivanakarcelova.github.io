@@ -21,10 +21,17 @@ am a delegate in the *North American Invitational Model United Nations*
 
 ## Programs
 As an aspiring Software Engineer, I take part in many out-of-school programs. Here is a short list of what I do in my free time:
-- Girls Who Code
-- Kode with Klossy
-- #BUILTBYGIRLS Wave Program
+- _Girls Who Code_
+  {Throughout 2017 and 2018, I took part in a local Girls Who Code club. While there, I developed my programming skills, learned JavaScript,
+    built a website, and met an empowering group of women!}
+- _Kode with Klossy_
+  {This past summer, I received the Kode with Klossy Scholarship and took part in the Level 3 camp in New York City. The camp ran for
+    two weeks, and I learned the majority of how to code in Swift.}
+- _#BUILTBYGIRLS Wave Program_
+  { Since 2017, I have taken part in #BUILTBYGIRLS' WAVE advisory program. Through that progam, I have been able to }
 - Junior Academy Challenges
+  {
+  }
 
 ## Volunteering and Work
 Aside from Computer Science and the Arts, I also volunteer and work.
@@ -39,8 +46,10 @@ I also regularly tutor Elementary and Middle schoolers at my local church. We me
 Currently, I am an Intern at *Trip of a Lifetime*, a nonprofit organization that gives underprivileged High School students their own _trip of a lifetime_. I have spent the past summer revamping their website for their Summer Teen Tours Program.
 
 ## Awards
-As an aspiring Software Engineer, I take part in many out-of-school programs. Here is a short list of what I do in my free time:
-- Girls Who Code
-- Kode with Klossy
-- #BUILTBYGIRLS Wave Program
-- Junior Academy Challenges
+A list of awards I have received through the years:
+- _SIAP Project Award_
+{For my _Sustainable Consumption_ project for Junior Academy, my group and I developed a filter for grey water. From there, I created a video
+  that compiled our work, and eventually, we won the SIAP Project Award. Our video was presented at the annual _*New York STEM Alliance*_ summit}
+- _NCWIT_
+{ I received an _*Honorable Mention*_ award for my excellence in Computer Science from the National Center for Women and Information Technology.
+}
