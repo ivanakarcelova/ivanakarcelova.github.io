@@ -17,7 +17,7 @@ permalink: /projects/
 
 
 ---
-### **Girls Who Code Criminal Injustice Project** 👩‍💻👨
+### **Girls Who Code Criminal Injustice Project** 👩‍💻
 
 - Built a website to bring awareness to Criminal Injustice
 - Utilized *HTML*, *CSS*, and *JavaScript*
