@@ -28,7 +28,7 @@ linkedin_username: Ivana Karcelova
 
 # Build settings
 markdown: kramdown
-theme: pretty
+theme: minima
 plugins:
   - jekyll-feed
 
