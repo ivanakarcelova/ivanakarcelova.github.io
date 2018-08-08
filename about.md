@@ -29,9 +29,9 @@ As an aspiring Software Engineer, I take part in many out-of-school programs. He
     two weeks, and I learned the majority of how to code in Swift.}
 - _#BUILTBYGIRLS Wave Program_
   { Since 2017, I have taken part in #BUILTBYGIRLS' WAVE advisory program. Through that progam, I have been able to }
-- Junior Academy Challenges
-  {
-  }
+- _Junior Academy Challenges_
+  { In the Junior Academy, I took part in the Sustainable Consumption challenge and developed a prototype filter for grey water.
+    Through the program, I met with girls from all over the world, and we eventually won the *SIAP Project* award!}
 
 ## Volunteering and Work
 Aside from Computer Science and the Arts, I also volunteer and work.
