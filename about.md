@@ -15,9 +15,7 @@ Currently, I am a _Junior_ at Rutgers Preparatory School.🏫
 This year, I am taking AP Computer Science!💻
 
 ### Clubs
-I am a leader of my school's *Gender Equality Movement Club*✊, take part in the *Computing Club* 💻, and
-
-am a delegate at the *North American Invitational Model United Nations*💼
+I am a leader of my school's *Gender Equality Movement Club*✊, take part in the *Computing Club* 💻, and am a delegate at the *North American Invitational Model United Nations*💼
 
 ## Programs
 As an aspiring Software Engineer, I take part in many out-of-school programs. Here is a short list of what I do in my free time:
