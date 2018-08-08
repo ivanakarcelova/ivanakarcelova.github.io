@@ -3,8 +3,6 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-## Check out my *Projects*
-
 ### **Given'App ArgoOut App** 💻
 
 - Lead a team of three developers in the development and creation of a study hall sign out app for the Rutgers Prep community
