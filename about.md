@@ -5,9 +5,9 @@ permalink: /about/
 ---
 ## Hello, World!👋
 
-My name is Ivana Karcelova, and this is my **[about](../about)** page.*
+My name is Ivana Karcelova, and this is my **[about](../about)** page.
 
-For a more detailed page, check out my **[resumé](../resume)***
+For a more detailed page, check out my **[resumé](../resume)**
 
 ## School
 Currently, I am a _Junior_ at Rutgers Preparatory School.🏫
